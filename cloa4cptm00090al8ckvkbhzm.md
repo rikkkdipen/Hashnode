@@ -11,7 +11,7 @@ tags: linux, devops, 90daysofdevops, wemakedevs, trainwithshubham
 
 ---
 
-In the previous article we learned about the Essential commands in the Linux operating system, if you haven't checked that article please go through that article once. Now in today's article, we are going to learn about Shell Scripting in Linux and why it is important.
+In the [previous](https://dipen.hashnode.dev/day-3-essential-linux-commands-every-devops-engineer-should-master) article we learned about the Essential commands in the Linux operating system, if you haven't checked that article please go through that article once. Now in today's article, we are going to learn about Shell Scripting in Linux and why it is important.
 
 But before going on SSH and SCP let's see some basic concepts like What is Kernel? and What is Shell? etc.
 
@@ -98,11 +98,11 @@ A shell script is like a little computer program made to work with a Linux comma
 
 ### 2\. What is #!/bin/bash? can we write #!bin/sh as well?
 
-The line "#!/bin/bash" is called a shebang or hashbang. It's a special code that tells the computer which program to use when running the script.
+The line "`#!/bin/bash`" is called a shebang or hashbang. It's a special code that tells the computer which program to use when running the script.
 
-In this case, "/bin/bash" says to use the Bash shell. Bash is a popular choice for scripting on Linux and Unix systems.
+In this case, "`/bin/bash`" says to use the Bash shell. Bash is a popular choice for scripting on Linux and Unix systems.
 
-You can also use "#!/bin/sh" in the shebang. This tells the computer to use the Bourne shell, which is an older and simpler shell. It's not as powerful as Bash, but it's still found on many systems and can handle basic tasks.
+You can also use "`#!/bin/sh`" in the shebang. This tells the computer to use the Bourne shell, which is an older and simpler shell. It's not as powerful as Bash, but it's still found on many systems and can handle basic tasks.
 
 The cool thing is that Bash understands the Bourne shell's language, so most Bourne shell scripts work in Bash without changes. So, unless you have a specific reason to use the Bourne shell, it's usually a good idea to stick with Bash for your scripting needs.
 
