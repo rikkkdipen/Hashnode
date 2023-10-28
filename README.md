@@ -1,2 +1,2 @@
 # Hashnode
-This repo contains all the blog post backups from [https://dipen.hashnode.dev/](Dipen's Blog)
+This repo contains all the blog post backups from [Dipen's Blog](https://dipen.hashnode.dev/)
