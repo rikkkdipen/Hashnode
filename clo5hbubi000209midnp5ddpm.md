@@ -6,6 +6,7 @@ datePublished: Wed Oct 25 2023 08:14:18 GMT+0000 (Coordinated Universal Time)
 cuid: clo5hbubi000209midnp5ddpm
 slug: day-1-navigating-the-devops-universe-automation-scaling-infrastructure-and-why-its-crucial
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698399045287/003cf8b8-6457-46c6-9f09-55405950bae8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698749365870/d7665b76-a657-4c94-8828-7d7e82acc127.png
 tags: linux, devops, 90daysofdevops, wemakedevs, trainwithshubham
 
 ---
