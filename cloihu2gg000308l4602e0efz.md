@@ -99,4 +99,84 @@ Git rebase and merge are two different ways to integrate changes from one branch
 
 In summary, merge preserves the history of both branches with a merge commit, while rebase creates a linear history by incorporating the changes from the feature branch onto the main branch as if they were made in sequence. The choice between them depends on your project's needs and your preference for how you want the history to look.
 
+### Tasks
+
+Add a text file called version01.txt inside the Devops/Git/ with “This is the first feature of our application” written inside. This should be in a branch coming from `master`, \[hint try `git checkout -b dev`\], switch to the `dev` branch ( Make sure your commit message will reflect as "Added new feature"). \[Hint use your knowledge of creating branches and Git commit command\]
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699089902015/81ecf106-4180-4b81-88c2-1fd5b5915029.png align="center")
+
+A committed message with "Added new feature".
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699089983494/795705d6-1c0b-4dc6-b15e-36842ecea33e.png align="center")
+
+version01.txt should reflect at the local repo first followed by the Remote repo for review. \[Hint use your knowledge of Git push and Git pull commands here\]
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090056501/1febaf4e-8b25-4098-ad10-636cc2c41e94.png align="center")
+
+Add a new commit in `dev` branch after adding the below-mentioned content in Devops/Git/version01.txt: While writing the file make sure you write these lines
+
+* 1st line&gt;&gt; This is the bug fix in the development branch
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090141217/06ec29b0-86f1-474a-8700-0eedc7f1dedc.png align="center")
+
+* Commit this with the message “ Added feature2 in development branch”
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090198688/d7e8de32-b283-4f20-8fb7-7b35195b3e18.png align="center")
+
+* 2nd line&gt;&gt; This is gadbad code
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090257802/2aaad4b2-c55e-4d08-806f-52903dba1d75.png align="center")
+
+* Commit this with the message “Added feature3 in the development branch"
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090348445/fffc2d7e-566d-4ab3-a9c9-fe81a4e36c79.png align="center")
+
+* 3rd line&gt;&gt; This feature will gadbad everything from now.
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090410767/cae8e2a6-9fa5-4e76-a5ce-348c176f4663.png align="center")
+
+* Commit with the message “ Added feature4 in the development branch
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090455891/f42f9836-4440-4a6b-9063-d931fa49deb9.png align="center")
+
+Restore the file to a previous version where the content should be “This is the bug fix in the development branch” \[Hint use git revert or reset according to your knowledge\]
+
+use the git log to check the hash
+
+```bash
+git log
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699090635966/671619f0-3e5c-4e87-ad3a-f57cd4ca07d1.png align="center")
+
+use the git revert to return the to previous commit which you want
+
+```bash
+git revert #hash
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699091405188/25dd7ec0-238d-4b29-94e7-d56b6ba7d4d4.png align="center")
+
+## **Task 2:**
+
+* Demonstrate the concept of branches with 2 or more branches with a screenshot.
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699091514671/d8014a35-446d-40f2-899f-dced25a06628.png align="center")
+
+* add some changes to `dev` branch and merge that branch in `master`
+    
+
+I used the command before but forgot the screenshot that is why it'll show already up to date
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699091599617/39ff33c1-3eea-42a1-b63c-a85f98b4b087.png align="center")
+
+Stay in the loop with my latest insights and articles on cloud ☁️ and DevOps ♾️ by following me on Hashnode, LinkedIn ([https://www.linkedin.com/in/dipenr06/](https://www.linkedin.com/in/dipenr06/)), and GitHub ([https://github.com/dipen006](https://github.com/dipen006)).
+
 If you find my blog valuable, I invite you to like and share. Your feedback is precious as it fuels continuous improvement. Let's embark on this transformative DevOps adventure together!🚀🚀
