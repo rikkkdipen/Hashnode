@@ -43,7 +43,7 @@ sudo apt -y install python3
 To check the version of Python use the command below
 
 ```bash
-python --version
+python3 --version
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699275484393/159f3136-fa91-4936-a95f-c2403841c235.png align="center")
