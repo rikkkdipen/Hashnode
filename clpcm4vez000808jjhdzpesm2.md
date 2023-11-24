@@ -1,6 +1,6 @@
 ---
 title: "Day 17: "Mastering Docker: A Beginner's Guide to Creating, Building, and Sharing Web Apps Hassle-Free!""
-seoTitle: ""Mastering Docker: A Beginner's Guide to Creating, Building,"
+seoTitle: "A Beginner Guide to Creating, Building, and Sharing Web without hassle"
 seoDescription: "A Dockerfile is like a cooking recipe for your computer programs. Instead of telling you how to cook a meal, it gives instructions on how to set up and run."
 datePublished: Fri Nov 24 2023 12:42:57 GMT+0000 (Coordinated Universal Time)
 cuid: clpcm4vez000808jjhdzpesm2
