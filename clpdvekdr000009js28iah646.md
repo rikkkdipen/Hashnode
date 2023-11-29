@@ -1,10 +1,10 @@
 ---
-title: "Day 18: Docker for DevOps Engineers"
+title: "Day 18: Docker for DevOps Engineers (part 1)"
 seoTitle: "Day 18: Docker for DevOps Engineers"
 seoDescription: "In the world of software magic, Docker Compose is like a wizard that makes managing multiple containers feel like a breeze. Imagine having a ....."
 datePublished: Sat Nov 25 2023 09:50:12 GMT+0000 (Coordinated Universal Time)
 cuid: clpdvekdr000009js28iah646
-slug: day-18-docker-for-devops-engineers
+slug: day-18-docker-for-devops-engineers-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700905621042/2c165f62-391b-4ed9-b5cd-89086f882443.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700905749108/0a93e3c2-717e-4075-8d3a-9b5988a680f6.png
 tags: linux, docker, devops, linux-for-beginners, devops-articles, 90daysofdevops, trainwithshubham
