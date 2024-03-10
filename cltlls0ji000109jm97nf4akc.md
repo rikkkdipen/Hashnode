@@ -1,10 +1,10 @@
 ---
-title: "Decoding DevOps: Unleashing the Power of Automation, Scaling, and Infrastructure Evolution!"
+title: "Day 1: Decoding DevOps: Unleashing the Power of Automation, Scaling, and Infrastructure Evolution!"
 seoTitle: "Unleash DevOps Power: Automation, Scaling, Infrastructure Evolution"
-seoDescription: "Discover the dynamic trio of DevOps: Automation, Scaling, and Infrastructure evolution! Transform your workflow with efficiency and speed. "
+seoDescription: "Discover the dynamic trio of DevOps: Automation, Scaling, and Infrastructure evolution! Transform your workflow with efficiency and speed."
 datePublished: Sun Mar 10 2024 14:21:42 GMT+0000 (Coordinated Universal Time)
 cuid: cltlls0ji000109jm97nf4akc
-slug: decoding-devops-unleashing-the-power-of-automation-scaling-and-infrastructure-evolution
+slug: day-1-decoding-devops-unleashing-the-power-of-automation-scaling-and-infrastructure-evolution
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710078250152/24dfcdc3-2762-43e3-9db6-c3eb5ba5426d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710080395842/dbd04c9e-45f3-4474-bdf0-2e5834e43447.png
 tags: devops, hashnode, 90daysofdevops, wemakedevs, trainwithshubham
