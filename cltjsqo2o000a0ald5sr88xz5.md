@@ -1,10 +1,10 @@
 ---
-title: "Reignite Your DevOps Passion: Restarting My #90DaysOfDevOps Journey!"
+title: "Day 0: Reignite Your DevOps Passion: Restarting My #90DaysOfDevOps Journey!"
 seoTitle: "Revive DevOps: Restarting #90DaysOfDevOps Journey!"
 seoDescription: "Embark on a renewed #90DaysOfDevOps journey! Reignite your passion for automation and scaling with a fresh start. Join the adventure now!"
 datePublished: Sat Mar 09 2024 08:01:04 GMT+0000 (Coordinated Universal Time)
 cuid: cltjsqo2o000a0ald5sr88xz5
-slug: reignite-your-devops-passion-restarting-my-90daysofdevops-journey
+slug: day-0-reignite-your-devops-passion-restarting-my-90daysofdevops-journey
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709970888257/11dd0aaf-e2c6-4a1a-9dd3-91e2caf1c29c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709971124263/ccb64533-74e8-4a65-b400-ac14ec657ff4.png
 tags: linux, github, devops, hashnode, blogswithcc, 90daysofdevops, wemakedevs, trainwithshubham
