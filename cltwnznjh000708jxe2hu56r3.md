@@ -181,7 +181,7 @@ for eg: I used git clone in my Desktop folder so to check that use the `ls` comm
 
 In above image you can see that the "demo" repository that we have created has been successfully cloned in your local repository
 
-## Make some changes to the file in repository and commit them to repository using git
+### Make some changes to the file in repository and commit them to repository using git
 
 To make changes in your local repo. Open the repo with `cd` command
 
@@ -228,7 +228,7 @@ you can use the git commit -m "Your message" to commit you changes with a messag
 
 The changes you made are now commited in the git repository
 
-## Push the changes back to the repository on Github
+### Push the changes back to the repository on Github
 
 * To push the changes back to repo you can use the `git push` command
     
