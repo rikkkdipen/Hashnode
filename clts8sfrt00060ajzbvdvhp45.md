@@ -110,4 +110,6 @@ Now, let's try out some commands to see how ACLs work in action:
 
 By using these commands, you can manage who has access to your files and what they're allowed to do with them. Just like having a magic spellbook to protect your treasures, ACLs give you fine-grained control over your data and who can access it.
 
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
 ~Dipen : )
