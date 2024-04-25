@@ -251,7 +251,7 @@ tags: linux, github, web-development, git, developer, devops, cheatsheet, linux-
     
 10. **Resolve Merge Conflicts:**
     
-    1. Open conflicted file.
+    1. Open the conflicted file.
         
     2. Manually resolve conflicts.
         
@@ -260,4 +260,8 @@ tags: linux, github, web-development, git, developer, devops, cheatsheet, linux-
     4. Commit changes.
         
 
-This cheatsheet covers essential Git and GitHub commands for beginners and more advanced users. Use it as a quick reference guide to streamline your workflow and collaboration processes.
+This cheat sheet covers essential Git and GitHub commands for beginners and more advanced users. Use it as a quick reference guide to streamline your workflow and collaboration processes.
+
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
+~Dipen : )
