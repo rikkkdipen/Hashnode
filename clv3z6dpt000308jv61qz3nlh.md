@@ -112,7 +112,7 @@ In this code:
     
 * We open the file in write mode (`"w"`) using `open()` function along with a `with` statement, ensuring the file is properly closed after writing.
     
-* We use `json.dump()` to write the dictionary `data` into the file `json_file`, with an indentation of 4 spaces for better readability.
+* We used `json.dump()` to write the dictionary `data` into the file `json_file`, with an indentation of 4 spaces for better readability.
     
 * Finally, we print a message confirming that the data has been written to the file.
     
@@ -164,7 +164,7 @@ Output:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713365729159/87cd6754-12c5-4576-9c52-cd7152eb8668.png align="center")
 
-### Read YAML file name as "Services.yaml" using python, read the content and convert yaml to json
+### Read the YAML file name as "Services.yaml" using Python, read the content, and convert yaml to JSON
 
 services.yaml
 
@@ -202,5 +202,7 @@ with open('services.yaml') as s:
 output
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713366280475/bb5258ad-a85b-4cf6-80ee-df13dc484cc2.png align="center")
+
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
 
 ~Dipen : )
