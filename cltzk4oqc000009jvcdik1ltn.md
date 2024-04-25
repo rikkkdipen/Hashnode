@@ -157,7 +157,7 @@ Add new commit in `dev` branch after adding below mentioned content in Devops/Gi
     use the git log to check the hash
     
 * ```bash
-    git log
+      git log
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710923576596/48e27c11-c603-47ed-bd35-7dffdc5b45b6.png align="center")
@@ -173,14 +173,17 @@ git revert #
 
 ### Task 2:
 
-* Demonstrate the concept of branches with 2 or more branches with screenshot.  
+* Demonstrate the concept of branches with 2 or more branches with screenshot.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699091514671/d8014a35-446d-40f2-899f-dced25a06628.png?auto=compress,format&format=webp align="left")
     
     I used the command before without taking screenshots. That's why it's showing up to date
     
-* add some changes to `dev` branch and merge that branch in `master`
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710923964655/11e360c7-0ca7-40c8-8649-bb0e8322df47.png align="center")
-    
-    ~Dipen ; )
+
+add some changes to `dev` branch and merge that branch in `master`
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710923964655/11e360c7-0ca7-40c8-8649-bb0e8322df47.png align="center")
+
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
+~Dipen ; )
