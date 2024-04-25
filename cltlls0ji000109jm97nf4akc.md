@@ -41,4 +41,6 @@ DevOps is like a superhero for making and running software! It's important becau
 
 So, DevOps is like the magic glue that holds everything together, making sure software is built quickly, works well, and everyone is happy in their digital castles! 🚀✨
 
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
 ~Dipen : )
