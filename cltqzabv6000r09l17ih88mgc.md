@@ -153,6 +153,6 @@ awk -F ':' '{print $1}' /etc/passwd
 
 User management in Linux is about controlling who can use the computer and what they can do. Each person has their own account with a username and password. Accounts can be grouped together for easier management. You can set rules to determine who can access files and programs. There are tools to add, modify, and remove user accounts. It's important for keeping the system secure and organized.
 
-~Dipen : )
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
 
-##
+~Dipen : )
