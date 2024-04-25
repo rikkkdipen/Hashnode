@@ -245,4 +245,6 @@ If you want to check whether your changes have been saved or not open the reposi
 
 You can compare both before/after push command to notice the changes.
 
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
 ~Dipen : )
