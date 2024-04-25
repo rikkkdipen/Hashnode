@@ -36,7 +36,7 @@ Overall, Python is like a toolbox full of easy-to-use tools that help you build 
 
 1. **Go to the Python website:** Open your web browser and go to [www.python.org](http://www.python.org).
     
-2. **Download** **Python:** On the Python website, click on the "Downloads" tab. You'll see a button that says "Download Python." Click on it.
+2. **DownloadPython:** On the Python website, click on the "Downloads" tab. You'll see a button that says "Download Python." Click on it.
     
 3. **Choose the installer:** You'll be directed to a page with different versions of Python. The latest version is usually displayed at the top. Click on the "Download" button next to the version you want. For most users, the recommended version is fine.
     
@@ -126,5 +126,7 @@ That's it! Python is now installed on your Linux system, and you're ready to sta
     
 
 These are some of the basic data types in Python. Understanding them is essential for working with data and writing effective Python code
+
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
 
 ~Dipen : )
