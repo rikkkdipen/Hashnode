@@ -109,4 +109,6 @@ These tasks involve simple operations that can be used to manage images and cont
 
 In conclusion, Docker is like a magical container that keeps your software safe and isolated, making it easy to manage and run on any computer. With simple commands like "docker run" to start containers and "docker inspect" to view details, managing software becomes a breeze. You can even check resource usage with "docker stats" and view processes with "docker top". Docker simplifies tasks like saving and loading images, making it a powerful tool for developers and DevOps teams alike.
 
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
 ~Dipen : )
