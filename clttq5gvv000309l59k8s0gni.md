@@ -166,4 +166,6 @@ In simple terms, both `systemctl` and `service` are tools in Linux used to manag
 
 So, if you just need to quickly start or stop a service, `service` is like the easy button. But if you want more control and options, `systemctl` is the tool you'll want to use.
 
+> "Fuel my passion and support my journey by clicking '**Buy me a coffee**' today!"
+
 ~Dipen : )
