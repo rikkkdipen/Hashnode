@@ -187,3 +187,5 @@ Keep up with the latest insights on cloud and DevOps by following me on:
     
 
 Thank you for reading! Let's continue learning, growing, and making a positive impact in the tech world together.
+
+%%[buymeacoffeebutton]
