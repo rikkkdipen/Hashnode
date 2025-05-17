@@ -1,6 +1,6 @@
 ---
 title: "Day 1: What Is Terraform? Automating Your Cloud Setup (Even If You’re Not a Tech Wizard!)"
-seoTitle: "How to Automate Your Cloud Setup with Terraform (2025 Guide): No-Code "
+seoTitle: "How to Automate Your Cloud Setup with Terraform (2025 Guide): No-Code"
 seoDescription: "Automate AWS & Linux cloud setups with Terraform—no coding required! Our 2025 beginner’s guide walks you through deploying EC2 servers, creating S3 backups,"
 datePublished: Sat May 17 2025 10:36:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmas3emur000k09la3q37hrs6
